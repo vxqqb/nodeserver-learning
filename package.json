@@ -1,0 +1,21 @@
+{
+  "name": "nodeserver-learning",
+  "version": "1.0.0",
+  "description": "nodeserver-learning",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vxqqb/nodeserver-learning.git"
+  },
+  "keywords": [
+    "nodeserver"
+  ],
+  "author": "vxqqb",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/vxqqb/nodeserver-learning/issues"
+  },
+  "homepage": "https://github.com/vxqqb/nodeserver-learning#readme"
+}
