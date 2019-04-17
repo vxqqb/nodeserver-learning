@@ -38,7 +38,7 @@ app.use(async ctx => {
     ctx.body = 'Hello World';
     console.log('response after' + Date.now())
 });
-
 app.listen(3000)
 // 语法糖
 //http.createServer(app.callback()).listen(3000);
+console.log('App started')
